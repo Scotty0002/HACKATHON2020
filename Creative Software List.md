@@ -50,9 +50,7 @@
   * Windows/Linux/OSX
 
 * Libre Office: www.libreoffice.org
-<<<<<<< HEAD
-
-
+  * Windows/Linux
 ### Royalty Free Image Sites:
 	* https://pixabay.com/
 	* https://unsplash.com/
@@ -64,6 +62,3 @@
 
 ### Security Tools:
 	* https://developers.google.com/web/tools/lighthouse
-=======
-  * Windows/Linux
->>>>>>> 7b8c363f1293ba220d031e7771acbe6dc47fc31a
