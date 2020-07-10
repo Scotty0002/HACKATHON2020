@@ -3,6 +3,9 @@
 ### video editing:
  
 * https://www.openshot.org/
+* https://kdenlive.org/en/ Linux and Mac
+* http://www.pitivi.org/ Linux only
+
 
 ### Image Editing:
 
@@ -16,4 +19,4 @@
 
 * Open Office: www.openoffice.org/product/index.html
 * Libre Office: www.libreoffice.org
-* Feng Office www.fengoffice.com/web/
+* Feng Office: www.fengoffice.com/web/
