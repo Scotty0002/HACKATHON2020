@@ -12,6 +12,25 @@
 * Krita: www.krita.org
   * Windows/Linux
 
+* Pinta: www.pinta-project.com
+  * Windows/Linux
+
+### Audio/Sound/Midi Editing:
+
+* Audacity: www.audacityteam.org
+  * Windows/Linux
+
+* Ardour: ardour.org
+  * Linux/MacOS/Windows
+
+* Aria Maestosa: ariamaestosa.github.io/ariamaestosa/docs/index.html
+  * Mac OS X/Windows/Linux
+
+* MIXXX: www.mixxx.org
+  * Windows/macOS/Linux
+
+* Qtractor: qtractor.sourceforge.io
+  * Linux only
 
 ### Text and Web
 * Atom: www.atom.io
