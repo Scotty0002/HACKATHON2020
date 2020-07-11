@@ -51,10 +51,9 @@ Following table for shared hosting only:
 | Cost/mo           | $7.99 | $10.99                                   | $14.99                                   | $23.99                                   |
 
 #### Domain Name Providers:
-Looking for .digital domain.
+Looking for thewub.org domain name.
 
-* Web Hosting Services does not support .digital domain.
-* Freeparking costs $112.10 per two years for wub.digital
-* Namecheap costs $2.80 per year
-* Bluehost does not support wub.digital.
- 
+* $22.95 per year on web hosting services
+* Freeparking costs $91.11 per two years for thewub.org
+* Namecheap costs $12.98 per year
+* Bluehost costs $8.99
