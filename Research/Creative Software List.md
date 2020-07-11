@@ -29,7 +29,7 @@
     * Filters
     * Can edit tracks with different frame rates concurrently
   * Source code: `https://download.gnome.org/sources/pitivi/`
-  
+
 ### Image Editing:
 
 * GIMP: `www.gimp.org`
@@ -82,12 +82,8 @@
   * License: Apache License `www.apache.org/licenses/LICENSE-2.0.html`
 * Libre Office: `www.libreoffice.org`
   * Windows/Linux
-<<<<<<< HEAD
   * License: MPLv2.0
 
-=======
-  
->>>>>>> b876d606608413b03d23fd1c6d10cb16af390cc7
 ### Royalty Free Image Sites:
 	* https://pixabay.com/
 	* https://unsplash.com/
@@ -96,17 +92,17 @@
 	* https://www.freemusicarchive.org/ All music is free to download but is licensed differently depending on the song
 	* https://www.zapsplat.com/ Lots of free sounds, but extra if you upgrade
 ### Royalty Free Clips:
-  * https://www.pexels.com/ 
-   * Clips and images 
+  * https://www.pexels.com/
+   * Clips and images
   * https://coverr.co/
 
 ### Security Tools:
 	* https://developers.google.com/web/tools/lighthouse
 
 ### Webdev Accessibility tools:
-  * https://github.com/IBMa/equal-access 
+  * https://github.com/IBMa/equal-access
    * A tool that automatically checks a webpage for accessibility violations uding ibms accessibility rule engine
-  * https://github.com/MSU-NatSci/DomainAccessibilityAudit 
+  * https://github.com/MSU-NatSci/DomainAccessibilityAudit
    * A domain crawling tool that can check a domain and subdomains using chrome or firefox and verify its accessibility based on a number of different standards
 
 ### WebDev Templates:
