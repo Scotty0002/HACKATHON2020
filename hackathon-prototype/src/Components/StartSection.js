@@ -9,7 +9,7 @@ function StartSection() {
       </div>
 
       <div className="parent-div-start">
-        <div className="sub-text">Lorem ipsum dolor sit amet</div>
+        <div className="sub-text">Helping to build an open, inclusive and secure Internet</div>
       </div>
     </div>
   );

@@ -31,6 +31,50 @@
 .color-complement-3 { color: #803F15 }
 .color-complement-4 { color: #552100 }
 
+.white {
+    background-color: white;
+}
+
+.red {
+    background-color: rgb(255, 0, 0, 0.3);
+}
+
+.orange {
+    background-color: rgb(255, 165, 0, 0.3);
+}
+
+.yellow {
+    background-color: rgb(255, 255, 0, 0.3);
+}
+
+.green {
+    background-color: rgb(0, 128, 0, 0.3);
+}
+
+.teal {
+    background-color: rgb(0, 128, 128, 0.3);
+}
+
+.blue {
+    background-color: rgb(0, 0, 255, 0.3);
+}
+
+.purple {
+    background-color: rgb(128, 0, 128, 0.3);
+}
+
+.pink {
+    background-color: rgb(255, 192, 203, 0.3);
+}
+
+.brown {
+    background-color: rgb(165, 42, 42, 0.3);
+}
+
+.grey {
+    background-color: rgb(128, 128, 128, 0.3);
+}
+
 .parent-div-start {
     text-align: center;
 }
@@ -61,27 +105,35 @@
     margin-bottom: 20px;
 }
 
+.icon {
+    margin-left: 10px;
+}
+
 .key-text-dev {
-    background-color: #042037;
-    color: white;
+    border-color: #042037;
+    border-width: 6px;
+    border-style: solid;
+    
     padding: 20px;
-    margin: 20px 50px;
+    margin: 20px 150px;
 
 }
 
 .key-text-creator {
-    background-color: #0E5144; 
-    color: white;
+    border-color: #0E5144; 
+    border-width: 6px;
+    border-style: solid;
     padding: 20px;
-    margin: 20px 50px;
+    margin: 20px 150px;
 
 }
 
 .key-text-both {
-    background-color: darkorange;
-    color: white;
+    border-color: darkorange;
+    border-width: 6px;
+    border-style: solid;
     padding: 20px;
-    margin: 20px 50px;
+    margin: 20px 150px;
 }
 
 .both {
@@ -96,4 +148,34 @@
     color: white;
     padding: 20px;
     margin: 15px;
+}
+
+.about {
+    text-align: center;
+    margin: 10% 20%;
+}
+
+.parent-advertisement {
+    text-align: center;
+}
+
+.advertisement {
+    /* border: black;
+    border-style: solid;
+    border-width: 4px; */
+    padding: 20px;
+    margin: 0 20px;
+    background-color: #0E5144;
+    width: 100px;
+    display: inline-block
+}
+
+.parent-contact {
+    text-align: center;
+}
+
+.link {
+    padding: 2%;
+    font-size: large;
+    color: black;
 }
