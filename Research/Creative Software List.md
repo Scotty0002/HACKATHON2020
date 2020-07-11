@@ -97,7 +97,18 @@
   * https://coverr.co/
 
 ### Security Tools:
-	* https://developers.google.com/web/tools/lighthouse
+* https://developers.google.com/web/tools/lighthouse
+* Arachni: `https://www.arachni-scanner.com/`
+  * Website penetration & security testing
+  * License: Arachni Public Source License `https://www.arachni-scanner.com/license/`
+* XssPy: `https://github.com/faizann24/XssPy`
+  * Cross site scripting tester
+  * License: MIT
+* w3af: `http://w3af.org/`
+  * Vulnerability scanner
+  * License: GPLv2.0
+  * Source: `https://github.com/andresriancho/w3af`
+
 
 ### Webdev Accessibility tools:
   * https://github.com/IBMa/equal-access
