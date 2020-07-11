@@ -3,17 +3,17 @@ import React from "react";
 function About() {
   return (
     <div className="about">
-      <h1>About</h1>
+      <h1 className="about-header">About</h1>
 
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-        occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-        mollit anim id est laborum.
-      </p>
+      <h3>
+        Empowering web developers and creatives to future proof their projects.
+        <br></br>
+        <br></br>
+        Wide range of resources and helpful guides so you can create inclusive, secure and open projects. 
+        <br></br>
+        <br></br>
+        If you don't know where to start, check out our Getting Started guide!
+      </h3>
     </div>
   );
 }
