@@ -87,17 +87,17 @@
 ### Royalty Free Image Sites:
 	* https://pixabay.com/
 	* https://unsplash.com/
+
 ### Royalty Free Sounds/Music:
 	* https://freesound.org/ Creative Commons License
 	* https://www.freemusicarchive.org/ All music is free to download but is licensed differently depending on the song
-	* https://www.zapsplat.com/ Lots of free sounds, but extra if you upgrade
+
 ### Royalty Free Clips:
-  * https://www.pexels.com/
+* https://www.pexels.com/
    * Clips and images
-  * https://coverr.co/
+* https://coverr.co/
 
 ### Security Tools:
-* https://developers.google.com/web/tools/lighthouse
 * Arachni: `https://www.arachni-scanner.com/`
   * Website penetration & security testing
   * Platforms: Windows/Linux/macOS
@@ -112,12 +112,16 @@
   * License: GPLv2.0
   * Source: `https://github.com/andresriancho/w3af`
 
-
 ### Webdev Accessibility tools:
-  * https://github.com/IBMa/equal-access
+* https://github.com/IBMa/equal-access
    * A tool that automatically checks a webpage for accessibility violations uding ibms accessibility rule engine
-  * https://github.com/MSU-NatSci/DomainAccessibilityAudit
+   * License: Apache License 2.0
+* https://github.com/MSU-NatSci/DomainAccessibilityAudit
    * A domain crawling tool that can check a domain and subdomains using chrome or firefox and verify its accessibility based on a number of different standards
+   * License: GNU General Public License v3.0
+* https://developers.google.com/web/tools/lighthouse
+   * License: Apache License 2.0
+   * Google made tool for auditing and imrpoving the quality of websites, by analysing performance, accessibility and search engine optimisation
 
 ### WebDev Templates:
   * https://templatemo.com/
@@ -125,6 +129,6 @@
   * https://www.tooplate.com/
    * free html 5 templates  for commercial and non commercial use
 
-### Web Accessiblity resource
+### Web Accessiblity resources
   * https://www.w3.org/WAI/fundamentals/accessibility-intro/#context
    * In depth run down on website accessibility for all people
