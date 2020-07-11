@@ -15,7 +15,7 @@ Tiers:
 | Domains   | 1     | 3    | 8    |
 | Webmail   | Yes   | Yes  | Yes  |
 
-* $22.95 for .org domain suffix per year
+* $22.95 for .digital domain suffix per year
 
 #### Freeparking
 Tiers:
@@ -29,12 +29,13 @@ Tiers:
 | Domains         | 1     | 2         | 5         |
 | Cost/yr         | $161  | $211      | $411      |
 
-* $47.95 for .org domain suffix per year
+* $112.10 for .digital domain suffix per 2 years
 
 #### Bluehost
 
 * No dedicated database server included on shared hosting. But support for external database server can be implemented.
 * $8.99 for .org domain suffix per year
+*
 * All tiers have SSL certificates
 * Unlimited bandwidth
 
@@ -48,3 +49,12 @@ Following table for shared hosting only:
 | Domains           | 1     | Unlimited                                | Unlimited                                | Unlimited                                |
 | Parked/Subdomains | 5/25  | Unlimited                                | Unlimited                                | Unlimited                                |
 | Cost/mo           | $7.99 | $10.99                                   | $14.99                                   | $23.99                                   |
+
+#### Domain Name Providers:
+Looking for .digital domain.
+
+* Web Hosting Services does not support .digital domain.
+* Freeparking costs $112.10 per two years for wub.digital
+* Namecheap costs $2.80 per year
+* Bluehost does not support wub.digital.
+ 
