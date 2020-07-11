@@ -87,10 +87,11 @@
 ### Royalty Free Image Sites:
 	* https://pixabay.com/
 	* https://unsplash.com/
+
 ### Royalty Free Sounds/Music:
 	* https://freesound.org/ Creative Commons License
 	* https://www.freemusicarchive.org/ All music is free to download but is licensed differently depending on the song
-	* https://www.zapsplat.com/ Lots of free sounds, but extra if you upgrade
+
 ### Royalty Free Clips:
   * https://www.pexels.com/
    * Clips and images
@@ -98,12 +99,15 @@
 
 ### Security Tools:
 	* https://developers.google.com/web/tools/lighthouse
+   * License: Apache License 2.0
 
 ### Webdev Accessibility tools:
   * https://github.com/IBMa/equal-access
    * A tool that automatically checks a webpage for accessibility violations uding ibms accessibility rule engine
+   * License: Apache License 2.0
   * https://github.com/MSU-NatSci/DomainAccessibilityAudit
    * A domain crawling tool that can check a domain and subdomains using chrome or firefox and verify its accessibility based on a number of different standards
+   * License: GNU General Public License v3.0
 
 ### WebDev Templates:
   * https://templatemo.com/
