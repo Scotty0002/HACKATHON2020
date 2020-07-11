@@ -100,12 +100,15 @@
 * https://developers.google.com/web/tools/lighthouse
 * Arachni: `https://www.arachni-scanner.com/`
   * Website penetration & security testing
+  * Platforms: Windows/Linux/macOS
   * License: Arachni Public Source License `https://www.arachni-scanner.com/license/`
 * XssPy: `https://github.com/faizann24/XssPy`
   * Cross site scripting tester
+  * Platforms: Python (All platforms supporting Python 2.7 env)
   * License: MIT
 * w3af: `http://w3af.org/`
   * Vulnerability scanner
+  * Platforms: Linux, Windows (No longer Supported)
   * License: GPLv2.0
   * Source: `https://github.com/andresriancho/w3af`
 
