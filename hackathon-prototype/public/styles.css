@@ -30,3 +30,70 @@
 .color-complement-2 { color: #D4946A }
 .color-complement-3 { color: #803F15 }
 .color-complement-4 { color: #552100 }
+
+.parent-div-start {
+    text-align: center;
+}
+
+
+
+.welcome-text {
+    font-weight: 300;
+    font-size: 10em;
+    display: inline-block;
+    margin-top: 15%;
+    
+}
+
+.sub-text {
+    display: inline-block;
+    margin-top: 5%;
+}
+
+.hor-rule {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.parent-div-key {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.key-text-dev {
+    background-color: #042037;
+    color: white;
+    padding: 20px;
+    margin: 20px 50px;
+
+}
+
+.key-text-creator {
+    background-color: #0E5144; 
+    color: white;
+    padding: 20px;
+    margin: 20px 50px;
+
+}
+
+.key-text-both {
+    background-color: darkorange;
+    color: white;
+    padding: 20px;
+    margin: 20px 50px;
+}
+
+.both {
+    background-color: darkorange;
+    color: white;
+    padding: 20px;
+    margin: 15px; 
+}
+
+.dev {
+    background-color: #042037;
+    color: white;
+    padding: 20px;
+    margin: 15px;
+}

@@ -1,11 +1,29 @@
-import React from 'react';
+import React, {useState} from 'react';
 import logo from './logo.svg';
-import './App.css';
+
+import NavBar from "./Components/nav-bar";
+import StartSection from "./Components/StartSection";
+import VisualKeySection from "./Components/VisualKeySection";
+import ResourceLinks from "./Components/ResourceLinks";
 
 function App() {
+
+
   return (
     <div className="App">
-      <h1>Inclusive Internet</h1>
+      <NavBar/>
+      <StartSection/>
+
+      <hr className="hor-rule"></hr>
+
+      <VisualKeySection/>
+
+      <hr className="hor-rule"></hr>
+
+      <ResourceLinks/>
+
+      <hr className="hor-rule"></hr>
+      
     </div>
   );
 }

@@ -1,35 +1,41 @@
-import React from 'react';
-import './App.css';
-import { Menu } from 'semantic-ui-react'
+import React from "react";
 
-function App() {
+import { Menu } from "semantic-ui-react";
+
+function NavBar() {
   return (
-    <Menu>
+    <div>
+      <Menu > 
+   
         <Menu.Item
-          name='editorials'
-          active={activeItem === 'editorials'}
-          onClick={this.handleItemClick}
+          name="Home"
+        
         >
-          Editorials
+          Home
         </Menu.Item>
 
         <Menu.Item
-          name='reviews'
-          active={activeItem === 'reviews'}
-          onClick={this.handleItemClick}
+          name="resources"
+         
         >
-          Reviews
+          Resources
         </Menu.Item>
 
         <Menu.Item
-          name='upcomingEvents'
-          active={activeItem === 'upcomingEvents'}
-          onClick={this.handleItemClick}
+          name="about"
+     
         >
-          Upcoming Events
+          About
+        </Menu.Item>
+        <Menu.Item
+          name="contact"
+     
+        >
+          Contact
         </Menu.Item>
       </Menu>
+    </div>
   );
 }
 
-export default App;
+export default NavBar;
