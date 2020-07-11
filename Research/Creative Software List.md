@@ -93,21 +93,34 @@
 	* https://www.freemusicarchive.org/ All music is free to download but is licensed differently depending on the song
 
 ### Royalty Free Clips:
-  * https://www.pexels.com/
+* https://www.pexels.com/
    * Clips and images
-  * https://coverr.co/
+* https://coverr.co/
 
 ### Security Tools:
-	* https://developers.google.com/web/tools/lighthouse
-   * License: Apache License 2.0
+* Arachni: `https://www.arachni-scanner.com/`
+  * Website penetration & security testing
+  * License: Arachni Public Source License `https://www.arachni-scanner.com/license/`
+* XssPy: `https://github.com/faizann24/XssPy`
+  * Cross site scripting tester
+  * License: MIT
+* w3af: `http://w3af.org/`
+  * Vulnerability scanner
+  * License: GPLv2.0
+  * Source: `https://github.com/andresriancho/w3af`
+
+
 
 ### Webdev Accessibility tools:
-  * https://github.com/IBMa/equal-access
+* https://github.com/IBMa/equal-access
    * A tool that automatically checks a webpage for accessibility violations uding ibms accessibility rule engine
    * License: Apache License 2.0
-  * https://github.com/MSU-NatSci/DomainAccessibilityAudit
+* https://github.com/MSU-NatSci/DomainAccessibilityAudit
    * A domain crawling tool that can check a domain and subdomains using chrome or firefox and verify its accessibility based on a number of different standards
    * License: GNU General Public License v3.0
+* https://developers.google.com/web/tools/lighthouse
+   * License: Apache License 2.0
+   * Google made tool for auditing and imrpoving the quality of websites, by analysing performance, accessibility and search engine optimisation
 
 ### WebDev Templates:
   * https://templatemo.com/
