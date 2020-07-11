@@ -109,8 +109,6 @@
   * License: GPLv2.0
   * Source: `https://github.com/andresriancho/w3af`
 
-
-
 ### Webdev Accessibility tools:
 * https://github.com/IBMa/equal-access
    * A tool that automatically checks a webpage for accessibility violations uding ibms accessibility rule engine
@@ -128,6 +126,6 @@
   * https://www.tooplate.com/
    * free html 5 templates  for commercial and non commercial use
 
-### Web Accessiblity resource
+### Web Accessiblity resources
   * https://www.w3.org/WAI/fundamentals/accessibility-intro/#context
    * In depth run down on website accessibility for all people
